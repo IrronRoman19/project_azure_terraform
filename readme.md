@@ -2,6 +2,10 @@
 
 Project of Azure infrastracture that runs application which takes data from the server with Terraform deploying.
 
+### Project architecture:
+
+![img](')
+
 ### Whats project contains?
 
 * Virtual network have public subnet and private subnet.
