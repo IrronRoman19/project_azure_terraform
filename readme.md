@@ -4,7 +4,7 @@ Project of Azure infrastracture that runs application which takes data from the 
 
 ### Project architecture:
 
-![img](')
+![png](./assets/pictures/diagrama.png)
 
 ### Whats project contains?
 
